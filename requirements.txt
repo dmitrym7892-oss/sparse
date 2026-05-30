@@ -1,0 +1,7 @@
+nest-asyncio
+numpy
+pandas
+matplotlib
+seaborn
+tqdm
+yfinance
