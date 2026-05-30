@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Project specific (created by the notebook)
+financial_data/
+experiment_results/
+*.json
+*.pdf
+*.png
+
+# macOS
+.DS_Store
+
+# IDE
+.vscode/
+.idea/
