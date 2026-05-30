@@ -30,5 +30,3 @@ git clone https://github.com/YOUR_USERNAME/sparse.git
 cd sparse
 pip install -r requirements.txt
 jupyter notebook sparse.ipynb
-
-_______________________________
